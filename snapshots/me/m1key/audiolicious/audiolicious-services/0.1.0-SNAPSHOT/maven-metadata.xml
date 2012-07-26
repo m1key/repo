@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>me.m1key.audiolicious</groupId>
+  <artifactId>audiolicious-services</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120726.220218</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120726220218</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.0-20120726.220218-1</value>
+        <updated>20120726220218</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.0-20120726.220218-1</value>
+        <updated>20120726220218</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
