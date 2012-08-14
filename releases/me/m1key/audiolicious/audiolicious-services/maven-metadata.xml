@@ -3,11 +3,12 @@
   <groupId>me.m1key.audiolicious</groupId>
   <artifactId>audiolicious-services</artifactId>
   <versioning>
-    <release>0.1.1</release>
+    <release>0.1.2</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
+      <version>0.1.2</version>
     </versions>
-    <lastUpdated>20120729013346</lastUpdated>
+    <lastUpdated>20120814063921</lastUpdated>
   </versioning>
 </metadata>
